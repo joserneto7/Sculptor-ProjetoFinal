@@ -1,5 +1,5 @@
 # Sculptor-ProjetoFinal
-Projeto final da terceira unidade de Programação Avançada  
-               Aluno: José Rodrigues do Nascimento Neto
-                                                         Documentação: https://joserneto7.github.io/Sculptor-ProjetoFinal/Doxygen/index.html
+<b>Projeto final da terceira unidade de Programação Avançada</b>  
+               <b>Aluno:</b> José Rodrigues do Nascimento Neto
+                                                         <b>Documentação:</b> https://joserneto7.github.io/Sculptor-ProjetoFinal/Doxygen/index.html
 
